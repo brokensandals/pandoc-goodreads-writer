@@ -1,0 +1,39 @@
+<b>Top-Level Heading</b>
+
+<b>First Sub-Heading</b>
+
+All right, here’s an unordered list:
+
+- Foo
+
+- Bar
+
+- Baz
+
+Let’s do a blockquote:
+
+<blockquote>Imagine some
+really beautiful prose
+here
+
+</blockquote>
+
+Entire divs can be marked as spoilers.
+
+<spoiler>This quote just gives too much away:
+
+<blockquote>Dumbledore kills Snape?!?!?
+
+</blockquote></spoiler>
+
+Text can be <i>emphasized</i>; also you can embed <a href="https://brokensandals.net">links for shameless self-promotion</a>.
+
+Here’s an ordered list:
+
+1. One
+
+2. Two
+
+3. Three
+
+HTML entities are used for &ldquo;double quotes&rdquo; and &lsquo;single quotes&rsquo. You can have inline <spoiler>spoilers using spans</spoiler> if you want to tantalize the reader. <b>Bold text</b> is supported.

@@ -1,0 +1,5 @@
+Citations such as[1] or[2] are partially supported; they won’t work correctly with all CSL styles.
+
+[1] Notareal Person, <i>Utterly Fake Book</i>, 2020, 1.
+
+[2] Ibid., 2.

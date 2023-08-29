@@ -78,6 +78,8 @@ scaffolded.Inline.Quoted = function (quoted, opts)
   end
 end
 
+scaffolded.Inline.SoftBreak = pandoc.layout.cr
+
 scaffolded.Inline.Space = " "
 
 scaffolded.Inline.Span = function (span, opts)
