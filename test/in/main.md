@@ -11,7 +11,7 @@ All right, here's an unordered list:
 Let's do a blockquote:
 
 > Imagine some
-> really beautiful prose
+> really beautiful prose  
 > here
 
 Entire divs can be marked as spoilers.

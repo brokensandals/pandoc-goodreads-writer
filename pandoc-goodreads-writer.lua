@@ -41,6 +41,8 @@ scaffolded.Block.Header = function (hdr, opts)
   return {"<b>", scaffolded.Inlines(hdr.content), "</b>"}
 end
 
+scaffolded.Inline.LineBreak = pandoc.layout.cr
+
 scaffolded.Inline.Link = function (link, opts)
   -- TODO escaping; use title attribute
   return {"<a href=\"" .. link.target .. "\">", scaffolded.Inlines(link.content), "</a>"}
