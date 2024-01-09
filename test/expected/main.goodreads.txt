@@ -36,4 +36,4 @@ Here’s an ordered list:
 
 3. Three
 
-HTML entities are used for &ldquo;double quotes&rdquo; and &lsquo;single quotes&rsquo. You can have inline <spoiler>spoilers using spans</spoiler> if you want to tantalize the reader. <b>Bold text</b> is supported.
+HTML entities are used for &ldquo;double quotes&rdquo; and &lsquo;single quotes&rsquo;. You can have inline <spoiler>spoilers using spans</spoiler> if you want to tantalize the reader. <b>Bold text</b> is supported.

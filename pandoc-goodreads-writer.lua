@@ -74,7 +74,7 @@ scaffolded.Inline.Quoted = function (quoted, opts)
   if quoted.quotetype == "DoubleQuote" then
     return {"&ldquo;", inner, "&rdquo;"}
   elseif quoted.quotetype == "SingleQuote" then
-    return {"&lsquo;", inner, "&rsquo"}
+    return {"&lsquo;", inner, "&rsquo;"}
   else
     error("unsupported quotetype " .. quoted.quotetype)
   end
